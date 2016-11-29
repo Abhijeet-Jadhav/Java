@@ -9,3 +9,11 @@ public class FacadeDemo {
 		facade.startComputer();
 	}
 }
+
+/* NOTES
+ 
+ Facade is structural pattern
+ Deemphasizes IS-A relationship and emphasizes HAS-A relationship
+ 
+ 
+ */
