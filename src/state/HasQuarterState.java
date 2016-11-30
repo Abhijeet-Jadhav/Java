@@ -1,7 +1,5 @@
 package state;
 
-import java.util.Random;
-
 public class HasQuarterState implements State {
 	GumballMachine gumballMachine;
  
