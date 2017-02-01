@@ -1,0 +1,1 @@
+interface LoadingCache<K,V>
