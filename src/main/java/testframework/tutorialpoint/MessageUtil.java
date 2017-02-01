@@ -1,4 +1,4 @@
-package testframework.JUnit4TestRunners.tutorialpoint;
+package testframework.tutorialpoint;
 
 /**
  * Created by root on 1/29/17.

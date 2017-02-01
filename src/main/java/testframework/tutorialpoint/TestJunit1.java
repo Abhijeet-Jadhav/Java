@@ -1,4 +1,4 @@
-package testframework.JUnit4TestRunners.tutorialpoint;
+package testframework.tutorialpoint;
 
 import org.junit.Test;
 

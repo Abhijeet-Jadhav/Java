@@ -1,7 +1,7 @@
-package testframework.JUnit4TestRunners;
+package testframework;
 
 import org.junit.Test;
-import testframework.JUnit4TestRunners.tutorialpoint.MessageUtil;
+import testframework.tutorialpoint.MessageUtil;
 
 import static org.junit.Assert.assertEquals;
 
