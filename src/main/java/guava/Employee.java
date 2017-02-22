@@ -49,7 +49,4 @@ public class Employee {
                 .add("Department", dept)
                 .add("Emp Id", emplD).toString();
     }
-
-    // commit to retract
-
 }

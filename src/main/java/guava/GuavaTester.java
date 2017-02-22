@@ -48,7 +48,4 @@ public class GuavaTester {
 
         return 0;
     }
-
-    // commit to retract
-
 }
